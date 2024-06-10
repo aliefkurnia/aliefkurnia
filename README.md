@@ -36,5 +36,5 @@
 </div>
 
 <div align="center">
-  <img src="images/bottom_rdm.png" alt="Bottom RDM" />
+  <img src="images/bottom_rdm.gif" alt="Bottom RDM" />
 </div>
