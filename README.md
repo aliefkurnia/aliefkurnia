@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="images/topper_rdm.png" alt="Topper RDM" />
+</div>
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CB01A&center=true&vCenter=true&random=false&width=435&lines=Hi+My+Name+Alief;Im+a+Software+Developer;Lets+Connect+%F0%9F%A6%96)](https://git.io/typing-svg)
 </div>
@@ -30,4 +33,8 @@
   <a href="https://linkedin.com/aliefkurnia">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="images/bottom_rdm.png" alt="Bottom RDM" />
 </div>
