@@ -8,11 +8,11 @@
 
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=alipk26&theme=tokyonight&hide=contribs,prs&hide_border=true" alt="alip's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliefkurnia&theme=tokyonight&hide=contribs,prs&hide_border=true" alt="alip's GitHub stats" />
 </div>
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipk26&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="alipk26's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefkurnia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="aliefkurnia's Top Languages" />
 </div>
 
 <div align="center" >
