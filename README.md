@@ -4,16 +4,29 @@
 </div>
 
 
-<div align="center" style="margin-bottom: 150px;">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=alipk26&theme=tokyonight&hide=contribs,prs&hide_border=true" alt="alip's GitHub stats" />
 </div>
 
-<div align="center" style="margin-bottom: 150px;">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipk26&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="alipk26's Top Languages" />
 </div>
 
-<div align="center">
+<div align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,html,css,bootstrap,kubernetes,nodejs,react,docker" alt="alipk26's Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=cs,js,html,css,nodejs" alt="alipk26's Skill Icons" />
+  </a>
+</div>
+
+<div align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,kubernetes,react,docker" alt="alipk26's Skill Icons" />
+  </a>
+</div>
+
+<div style="margin-top: 20px;"></div>
+<div align="center" id="badges">
+  <a href="https://linkedin.com/aliefkurnia">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
