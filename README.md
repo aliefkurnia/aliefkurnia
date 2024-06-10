@@ -18,11 +18,12 @@
   </a>
 </div>
 
-<div align="center" >
-  <a href="https://skillicons.dev">
+<div align="center">
+  <a href="https://skillicons.dev" style="pointer-events: none;">
     <img src="https://skillicons.dev/icons?i=bootstrap,kubernetes,react,docker" alt="alipk26's Skill Icons" />
   </a>
 </div>
+
 
 <div style="margin-top: 20px;"></div>
 <div align="center" id="badges">
