@@ -8,11 +8,11 @@
 
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=aliefkurnia&hide=contribs,prs&hide_border=true" alt="alip's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliefkurnia&hide=contribs,prs&hide_border=true&theme=highcontrast" alt="alip's GitHub stats" />
 </div>
 
 <div align="center" >
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliefkurnia&show_icons=true&locale=en&layout=compact" alt="aliefkurnia" /></p></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliefkurnia&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="aliefkurnia" /></p></div>
 
 <div style="margin-top: 30px;"></div>
 <div align="center" >
