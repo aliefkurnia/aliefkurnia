@@ -60,8 +60,8 @@
 
 <div align="center">
 <picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="images/aliefkurnia-repo-snake.svg" /> -->
-  <source media="(prefers-color-scheme: light)" srcset="images/aliefkurnia-repo-snake.svg" />
-  <img alt="github-snake" src="images/aliefkurnia-repo-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="images/github-user-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/github-user-contribution-light.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
