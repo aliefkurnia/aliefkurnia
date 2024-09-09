@@ -1,9 +1,24 @@
 <div align="center">
-  <img src="images/topper_rdm.png" alt="Topper RDM" />
-</div>
-<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CB01A&center=true&vCenter=true&random=false&width=800&lines=Hi+My+Name+Alief;Im+a+Software+Developer;Lets+Connect+%F0%9F%A6%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&lines=Hi+My+Name+Alief;Im+a+Software+Developer;Lets+Connect+%F0%9F%A6%96)](https://git.io/typing-svg)
+</div>
+
+
+<div align="center">
+  <h1>👾 Part-Time Programmer, Full-Time Code Sorcerer</h1>
+  <h4 style="text-align: justify; max-width: 800px; margin: 0 auto;">
+    I speak fluent C# and JavaScript, and I dabble in Python like a chef trying to cook without a recipe. My code sometimes works on the first try—purely by accident. I'm powered by caffeine, fueled by curiosity, and occasionally derailed by a stray semicolon.
+    <br /><br />
+    My superpowers include turning coffee into code, finding creative (and often convoluted) solutions to simple problems, and writing comments that future me will never understand. I believe in clean code, but sometimes my code is more of an abstract art piece.
+    <br /><br />
+    Dive into my repos, where you might find genius solutions, or, more likely, creative chaos. 🚀
+  </h4>
+</div>
+
+
+
+<div align="center">
+  <img src="images/topper_rdm.png" alt="Topper RDM" />
 </div>
 
 
@@ -16,6 +31,7 @@
 
 <div style="margin-top: 50px;"></div>
 <div align="center" >
+  <h4>Stack that i use</h4>
 
 ![My Skills](https://skillicons.dev/icons?i=cs,css,html,javascript)
 </div>
@@ -35,10 +51,6 @@
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=aliefkurnia&style=for-the-badge&label=Visitor&color=4DE32A)
-<div style="margin-top: 50px;"></div>
-
-<div align="center">
-  <img src="images/bottom_rdm.gif" alt="Bottom RDM" />
 </div>
 
 <div align="center">
@@ -48,4 +60,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aliefkurnia/aliefkurnia/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+<div style="margin-top: 30px;"></div>
+
+<div align="center">
+  <img src="images/bottom_rdm.gif" alt="Bottom RDM" />
+</div>
+
+
 
