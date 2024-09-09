@@ -49,9 +49,9 @@
 </div>
 
 <div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=aliefkurnia&style=for-the-badge&label=Visitor&color=4DE32A)
+  <img src="https://komarev.com/ghpvc/?username=aliefkurnia&style=for-the-badge&label=Visitor&color=4DE32A" alt="Visitor Badge" width="200"/>
 </div>
+
 
 <div align="center">
 <picture>
