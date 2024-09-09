@@ -31,7 +31,7 @@
 
 <div style="margin-top: 50px;"></div>
 <div align="center" >
-  <h4>Stack that i use</h4>
+  <h4>Stack I Work With</h4>
 
 ![My Skills](https://skillicons.dev/icons?i=cs,css,html,javascript)
 </div>
