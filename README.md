@@ -5,21 +5,17 @@
 
 
 <div align="center">
-  <h1>👾 Part-Time Programmer, Full-Time Code Sorcerer</h1>
-  <h4 style="text-align: justify; max-width: 800px; margin: 0 auto;">
-    I speak fluent C# and JavaScript, and I dabble in Python like a chef trying to cook without a recipe. My code sometimes works on the first try—purely by accident. I'm powered by caffeine, fueled by curiosity, and occasionally derailed by a stray semicolon.
-    <br /><br />
-    My superpowers include turning coffee into code, finding creative (and often convoluted) solutions to simple problems, and writing comments that future me will never understand. I believe in clean code, but sometimes my code is more of an abstract art piece.
-    <br /><br />
-    Dive into my repos, where you might find genius solutions, or, more likely, creative chaos. 🚀
-  </h4>
+  <h1>⚡ Code Alchemist | Crafting Solutions</h1>
+  <p style="text-align: center; max-width: 800px; margin: 0 auto;">
+    Turning <strong>C#</strong> and <strong>JavaScript</strong> into powerful code, with a hint of Python. My code? Sometimes flawless, often adventurous, always evolving. 🚀
+  </p>
 </div>
-
 
 
 <div align="center">
-  <img src="images/topper_rdm.png" alt="Topper RDM" />
+  <img src="images/topper_rdm.png" alt="Topper RDM" width="600" />
 </div>
+
 
 
 <div align="center"  >
@@ -54,17 +50,18 @@
 
 
 <div align="center">
+  <img src="images/bottom_rdm.gif" alt="Bottom RDM" width="600" />
+</div>
+
+<div style="margin-top: 30px;"></div>
+
+
+<div align="center" style="margin-top: 30px;">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliefkurnia/aliefkurnia/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliefkurnia/aliefkurnia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aliefkurnia/aliefkurnia/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-
-<div style="margin-top: 30px;"></div>
-
-<div align="center">
-  <img src="images/bottom_rdm.gif" alt="Bottom RDM" />
 </div>
 
 
