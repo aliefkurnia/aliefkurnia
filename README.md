@@ -10,10 +10,6 @@ _Sometimes it works, sometimes it’s Stack Overflow magic. 🚀_
 
 ![Topper](images/topper_rdm.png)
 
-## 🏆 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=aliefkurnia&hide=contribs,prs&hide_border=true&theme=chartreuse-dark" alt="GitHub Stats" width="500"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliefkurnia&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="400"/>
 
 ---
 
